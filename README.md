@@ -2,6 +2,7 @@
 ### *A Political Drama of the Weimar Republic, 1928–1933*
 ### 黑 · 红 · 金 —— 魏玛共和国的政治悲剧
 
+[![Built with: Fable 5.2](https://img.shields.io/badge/Built%20with-Fable%205.2-blue?style=flat-square)](https://github.com/S7arFish/Fable5.2-Suzerain)
 [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Three.js](https://img.shields.io/badge/Three.js-r170-black?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org/)
 [![Web Audio API](https://img.shields.io/badge/Web%20Audio-Procedural-orange?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
@@ -10,6 +11,17 @@
 > **"Die Freiheit und das Leben kann man uns nehmen, die Ehre nicht."**  
 > *"自由与生命可以被剥夺，但尊严与荣誉不能。"*  
 > —— 奥托·韦尔斯（Otto Wels），帝国议会反对《授权法》演说，1933年3月23日
+
+---
+
+## 🤖 项目生成声明与提示词 (Built with Fable 5.2)
+
+> 📢 **声明**：本项目由 **Fable 5.2** 全程构建完成。从基于 Three.js 的三维复古沙盘与国会大厦、纯 Web Audio API 过程化声音合成引擎，到底层政治与选民经济模拟系统，均由 Fable 5.2 根据以下提示词生成与组织。
+
+### 💬 原始提示词 (Original Prompt)
+```text
+I really love the game Suzerain and Weimar German history. Could you help me build a game similar to Suzerain? Something along the lines of Social Democracy: An Alternate History, set against the backdrop of the Weimar Republic. Ideally, it should be playable directly in the browser using tools like Three.js and WebGL. Visual quality and game feel are top priority—I want it to look and feel like a AAA title.
+```
 
 ---
 
